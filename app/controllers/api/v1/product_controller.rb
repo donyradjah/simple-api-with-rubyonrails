@@ -11,7 +11,7 @@ class Api::V1::ProductController < ApplicationController
     else
       @from = 1
     end
-    if params[:page].to_i == 1
+    if params[:page].to_i == 1 || params[:page].nil?
       @to = @products.length
     else
       if params[:page].to_i > 1
