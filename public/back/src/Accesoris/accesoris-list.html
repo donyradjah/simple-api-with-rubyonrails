@@ -1,0 +1,95 @@
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+        DATA Accesoris
+    </div>
+    <div>
+        <div class="panel-body">
+            <div class="row">
+                <div class="col-sm-8 m-b-xs">
+            <span tooltip="Tambah Data">
+                <a md-ink-ripple ui-sref="app.accesoris-create" class="btn btn-sm btn-default">
+                    <i class="glyphicon glyphicon-plus-sign"></i></a>
+                </span>
+            <span tooltip="Refresh data">
+                <button md-ink-ripple class="btn btn-sm btn-default" ng-click="refreshData()">
+                    <i class="glyphicon glyphicon-refresh"></i>
+                </button>
+            </span>
+                </div>
+                <div class="col-sm-4">
+                    <div class="input-group pull-right">
+                        <input type="text" class="input-sm form-control" placeholder="Search" ng-model="main.term"
+                               ng-disabled="disUtama.txtCari" ng-enter="getData()">
+                <span class="input-group-btn" tooltip="Cari Data">
+                    <button md-ink-ripple class="btn btn-sm btn-default" type="button" ng-click="getData()"
+                            ng-disabled="main.term ==''">Cari
+                    </button>
+                </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div ng-show="isLoading" layout="row" layout-sm="column" layout-align="space-around">
+            <md-progress-circular md-mode="indeterminate"></md-progress-circular>
+        </div>
+        <div class="table-responsive" ng-show="isLoaded">
+            <table class="table table-striped">
+                <thead>
+                <tr>
+                    <th class="col-md-1">Accesoris</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr ng-repeat="row in dataHargaService">
+                    <td class="col-md-2">{{row.name}}</td>
+                    <td class="col-md-2">
+
+                        <a ui-sref="app.accesoris-edit({id:row.id})" md-ink-ripple tooltip="Edit Data"
+                           class="btn btn-sm btn-default">
+                            <i class="glyphicon glyphicon-edit"></i>
+                        </a>
+                        <button ng-if="dataUser.level =='100'" type="button" ng-click="hapus(row.id)" md-ink-ripple tooltip="Hapus Data"
+                                class="btn btn-sm btn-danger">
+                            <i class="glyphicon glyphicon-trash"></i>
+                        </button>
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+        <!--panel pagination-->
+        <div class="panel-body">
+            <div class="row">
+                <div class="col-sm-4 text-center-xs" style="margin-top: 27px;">
+                    <small>Menampilkan {{from}}-{{to}} dari {{total}} data</small>
+                </div>
+                <div class="col-sm-8 text-right text-center-xs">
+                    <ul class="pagination m-t-none m-b-none">
+                        <li tooltip="Halaman Pertama">
+                            <button md-ink-ripple class="btn btn-default" type="button" ng-click='firstPage()'
+                                    ng-disabled='current_page == 1 || disUtama.btnPagging'><i
+                                    class="fa fa-angle-double-left"></i></button>
+                        </li>
+                        <li tooltip="Halaman Sebelumnya">
+                            <button md-ink-ripple class="btn btn-default" type="button" ng-click='previousPage()'
+                                    ng-disabled='current_page <= 1 || disUtama.btnPagging'><i
+                                    class="fa fa-angle-left"></i></button>
+                        </li>
+                        <li tooltip="Halaman Selanjutnya">
+                            <button md-ink-ripple class="btn btn-default" type="button" ng-click='nextPage()'
+                                    ng-disabled='main.page >= last_page || disUtama.btnPagging'><i
+                                    class="fa fa-angle-right"></i></button>
+                        </li>
+                        <li tooltip="Halaman Terakhir">
+                            <button md-ink-ripple class="btn btn-default" type="button" ng-click='lastPage()'
+                                    ng-disabled='main.page >= last_page || disUtama.btnPagging'><i
+                                    class="fa fa-angle-double-right"></i></button>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <!-- /Base -->
+        </div>
+    </div>
+</div>

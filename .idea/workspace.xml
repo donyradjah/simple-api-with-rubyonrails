@@ -2,8 +2,270 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="322b332e-79d1-400e-a659-761af4a255bc" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/fonts/Material-Design-Icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/fonts/Material-Design-Icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/fonts/Material-Design-Icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/fonts/roboto/roboto-bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/fonts/roboto/roboto-light.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/fonts/roboto/roboto.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/images/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/images/c0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/images/c1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/images/c2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/images/c3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/images/c4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/images/c5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/images/c6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/images/c7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/images/c8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/images/c9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/images/mds.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/images/msp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/images/p0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular-ui-grid/ui-grid.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular-ui-grid/ui-grid.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular-ui-grid/ui-grid.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/assets/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/assets/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/assets/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/assets/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/assets/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/footable/css/fonts/footable.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/footable/css/fonts/footable.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/footable/css/fonts/footable.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/plugins/integration/bootstrap/images/sort_asc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/plugins/integration/bootstrap/images/sort_asc_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/plugins/integration/bootstrap/images/sort_both.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/plugins/integration/bootstrap/images/sort_desc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/plugins/integration/bootstrap/images/sort_desc_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/scripts/moment/Our bank account is dry, but my pussy's wet - HDZo.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/fonts/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/fonts/Material-Design-Icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/fonts/roboto/font.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/i18n/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/i18n/zh_CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/all-js.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular-animate/angular-animate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular-aria/angular-aria.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular-bootstrap-nav-tree/dist/abn_tree.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular-bootstrap-nav-tree/dist/abn_tree_directive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular-bootstrap/ui-bootstrap-tpls.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular-cookies/angular-cookies.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular-file-upload/angular-file-upload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular-loading-bar/build/loading-bar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular-loading-bar/build/loading-bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular-loading-bar/build/loading-bar.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular-loading-bar/build/loading-bar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular-material/angular-material.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular-material/angular-material.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular-messages/angular-messages.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular-resource/angular-resource.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular-sanitize/angular-sanitize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular-smart-table/dist/smart-table.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular-smart-table/dist/smart-table.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular-touch/angular-touch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular-translate-loader-static-files/angular-translate-loader-static-files.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular-translate-storage-cookie/angular-translate-storage-cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular-translate-storage-local/angular-translate-storage-local.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular-translate/angular-translate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular-ui-grid/ui-grid.bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular-ui-grid/ui-grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular-ui-grid/ui-grid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular-ui-grid/ui-grid.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular-ui-grid/ui-grid.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular-ui-grid/ui-grid.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular-ui-map/ui-map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular-ui-router/release/angular-ui-router.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular-ui-router/release/angular-ui-router.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular-ui-select/dist/select.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular-ui-select/dist/select.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular-ui-select/dist/select.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular-ui-select/dist/select.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular-ui-utils/ui-utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular-xeditable/dist/css/xeditable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular-xeditable/dist/js/xeditable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular-xeditable/dist/js/xeditable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/angular/angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/jquery.easy-pie-chart/dist/angular.easypiechart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/ng-grid/build/ng-grid.debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/ng-grid/build/ng-grid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/ng-grid/build/ng-grid.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/ng-grid/ng-grid.bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/ng-grid/ng-grid.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/ngImgCrop/compile/minified/ng-img-crop.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/ngImgCrop/compile/minified/ng-img-crop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/ngstorage/ngStorage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/oclazyload/dist/ocLazyLoad.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/oclazyload/dist/ocLazyLoad.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/textAngular/dist/textAngular-sanitize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/textAngular/dist/textAngular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/venturocket-angular-slider/angular-slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/venturocket-angular-slider/build/angular-slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/angular/venturocket-angular-slider/build/angular-slider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/assets/animate.css/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/assets/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/assets/font-awesome/css/font-awesome.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/assets/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/assets/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/bootstrap/dist/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/bootstrap/dist/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/bootstrap/dist/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/bootstrap/dist/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/bootstrap/dist/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/bootstrap/dist/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/bootstrap/dist/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/bootstrap/dist/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/bootstrap/dist/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/bower-jvectormap/jquery-jvectormap-1.2.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/bower-jvectormap/jquery-jvectormap-us-aea-en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/bower-jvectormap/jquery-jvectormap-world-mill-en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/bower-jvectormap/jquery-jvectormap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/datatables/media/js/jquery.dataTables.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/flot-spline/js/jquery.flot.spline.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/flot.orderbars/js/jquery.flot.orderBars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/flot.tooltip/js/jquery.flot.tooltip.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/flot/jquery.flot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/flot/jquery.flot.pie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/flot/jquery.flot.resize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/footable/css/fonts/footable.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/footable/css/footable.core.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/footable/dist/footable.all.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/jquery.easy-pie-chart/dist/jquery.easypiechart.fill.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/jquery.sparkline/dist/jquery.sparkline.retina.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/jquery/dist/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/moment/moment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/plugins/integration/bootstrap/3/dataTables.bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/plugins/integration/bootstrap/3/dataTables.bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/plugins/integration/bootstrap/3/dataTables.bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/plugins/integration/bootstrap/3/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/screenfull/dist/screenfull.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/waves/dist/waves.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/waves/dist/waves.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/waves/dist/waves.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/waves/dist/waves.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/libs/jquery/waves/dist/waves.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/scripts/app.ctrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/scripts/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/scripts/app.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/scripts/app.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/scripts/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/scripts/config.lazyload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/scripts/config.router.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/scripts/controllers/angular-strap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/scripts/controllers/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/scripts/controllers/chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/scripts/controllers/editor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/scripts/controllers/googlemap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/scripts/controllers/imgcrop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/scripts/controllers/largeLoad.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/scripts/controllers/load-google-maps.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/scripts/controllers/material.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/scripts/controllers/nggrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/scripts/controllers/select.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/scripts/controllers/slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/scripts/controllers/table.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/scripts/controllers/tree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/scripts/controllers/uigrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/scripts/controllers/upload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/scripts/controllers/upload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/scripts/controllers/vectormap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/scripts/controllers/xeditable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/scripts/directives/lazyload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/scripts/directives/ui-fullscreen.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/scripts/directives/ui-jp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/scripts/directives/ui-nav.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/scripts/directives/ui-scroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/scripts/directives/ui-toggle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/scripts/filters/fromnow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/scripts/moment/moment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/scripts/services/ngstore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/scripts/services/ui-load.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/src/Accesoris/AccesorisCtrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/src/Accesoris/accesoris-create.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/src/Accesoris/accesoris-edit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/src/Accesoris/accesoris-list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/src/Accesoris/accesoris-service.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/styles/app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/styles/app.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/styles/font.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/styles/material-design-icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/aside.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/layout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/pages/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/pages/505.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/pages/blank.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/pages/dashboard.analysis.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/pages/dashboard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/pages/dashboard.wall.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/pages/document.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/pages/forgot-password.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/pages/lockme.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/pages/profile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/pages/settings.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/pages/signin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/pages/signup.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/partials/aside.nav.uikit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/partials/aside.tpl.chat.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/partials/aside.tpl.user.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/ui/chart/chart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/ui/component/arrow.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/ui/component/badge-label.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/ui/component/button.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/ui/component/color.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/ui/component/grid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/ui/component/icon.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/ui/component/list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/ui/component/modal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/ui/component/nav.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/ui/component/progressbar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/ui/component/streamline.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/ui/component/timeline.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/ui/component/uibootstrap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/ui/form/editor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/ui/form/element.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/ui/form/file-upload.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/ui/form/image-crop.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/ui/form/layout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/ui/form/select.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/ui/form/slider.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/ui/form/tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/ui/form/validation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/ui/form/xeditable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/ui/map/google.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/ui/map/vector.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/ui/material/button.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/ui/material/card.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/ui/material/color.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/ui/material/dialog.tmpl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/ui/material/form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/ui/material/icon.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/ui/material/list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/ui/material/ngmaterial.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/ui/material/toast.tmpl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/ui/table/datatable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/ui/table/editable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/ui/table/footable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/ui/table/nggrid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/ui/table/smart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/ui/table/static.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/back/views/ui/table/uigrid.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/api/v1/product_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/api/v1/product_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
     </list>
     <ignored path="rest_api.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,8 +292,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="application.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/application.rb">
+      <file leaf-file-name="layout.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/back/views/layout.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -40,58 +302,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="product_controller.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/controllers/api/v1/product_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.29577464">
-              <caret line="7" column="88" selection-start-line="7" selection-start-column="88" selection-end-line="7" selection-end-column="88" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rendering.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/actionpack-4.2.4/lib/action_controller/metal/rendering.rb">
+      <file leaf-file-name="content.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/back/views/content.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+              <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.rdoc" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.rdoc">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="development.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -100,11 +322,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="product.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/models/product.rb">
+      <file leaf-file-name="production.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/environments/test.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aside.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/back/views/aside.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="7" column="35" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -114,23 +356,50 @@
         <entry file="file://$PROJECT_DIR$/config/routes.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application_controller.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+      <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/page/index.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.37422037">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="environment.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/environment.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/application.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -140,12 +409,21 @@
       <list>
         <option value="$PROJECT_DIR$/config/database.yml" />
         <option value="$PROJECT_DIR$/db/migrate/20160311154856_create_people.rb" />
-        <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/controllers/application_controller.rb" />
         <option value="$PROJECT_DIR$/app/models/product.rb" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/controllers/api/v1/product_controller.rb" />
+        <option value="$PROJECT_DIR$/app/views/page_controller/index.html" />
+        <option value="$PROJECT_DIR$/app/controllers/page_controller_controller.rb" />
+        <option value="$PROJECT_DIR$/app/views/page/dashboard.html" />
+        <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/page_controller.rb" />
+        <option value="$PROJECT_DIR$/app/views/page/index.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+        <option value="$PROJECT_DIR$/public/back/scripts/app.ctrl.js" />
+        <option value="$PROJECT_DIR$/public/back/scripts/config.router.js" />
+        <option value="$PROJECT_DIR$/public/back/views/aside.html" />
       </list>
     </option>
   </component>
@@ -165,7 +443,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -183,9 +461,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="RailsProjectView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -204,8 +479,79 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rest_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rest_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rest_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rest_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rest_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rest_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rest_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rest_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="RailsProjectView" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -213,6 +559,12 @@
     <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
   </component>
   <component name="RunManager" selected="Rails.Development: rest_api">
     <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
@@ -415,22 +767,22 @@
     <frame x="0" y="0" width="1366" height="748" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32988167" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20857988" sideWeight="0.49707174" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20857988" sideWeight="0.49707174" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988167" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988167" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988167" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
@@ -456,59 +808,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config/application.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/api/v1/product_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/actionpack-4.2.4/lib/action_controller/metal/rendering.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.rdoc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -516,7 +819,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -532,7 +834,78 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/application.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/api/v1/product_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/actionpack-4.2.4/lib/action_controller/metal/rendering.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.rdoc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/product.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -554,7 +927,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -562,7 +934,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -570,7 +941,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -578,7 +948,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -586,7 +955,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -594,7 +962,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -610,7 +977,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -618,9 +984,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1457711738319" expanded="true" signature="1256:1286" placeholder="do ... end" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -631,13 +994,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/environment.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/database.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -652,35 +1008,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/application.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/models/product.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -688,7 +1019,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -696,7 +1026,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -704,7 +1033,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -720,14 +1048,134 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/api/v1/product_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29577464">
-          <caret line="7" column="88" selection-start-line="7" selection-start-column="88" selection-end-line="7" selection-end-column="88" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="43" column="11" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/back/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/back/scripts/app.ctrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="8" selection-start-line="9" selection-start-column="0" selection-end-line="21" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/page_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/back/scripts/config.router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="721" column="6" selection-start-line="721" selection-start-column="6" selection-end-line="721" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/back/views/layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/back/views/aside.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/back/views/content.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environments/test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environment.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/application.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/page/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37422037">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
           <folding />
         </state>
       </provider>

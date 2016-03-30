@@ -1,14 +1,23 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>RestApi</title>
-  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
-  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
-  <%= csrf_meta_tags %>
+  <meta charset="utf-8"/>
+  <title>MDS | Malang Digital Service</title>
+  <meta name="description"
+        content="material, material design, angular material, app, web app, responsive, responsive layout, admin, admin panel, admin dashboard, flat, flat ui, ui kit, AngularJS, ui route, charts, widgets, components"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+  <link rel="stylesheet" href="back/libs/assets/animate.css/animate.css" type="text/css"/>
+  <link rel="stylesheet" href="back/libs/assets/font-awesome/css/font-awesome.css" type="text/css"/>
+  <link rel="stylesheet" href="back/styles/app.min.css" type="text/css"/>
 </head>
-<body>
+<body ng-app="app">
+<div class="app" ui-view ng-controller="AppCtrl"></div>
+<!-- jQuery -->
+<script src="back/libs/all-js.js"></script>
+<!-- Apps -->
+<script src="back/scripts/app.js"></script>
 
-<%= yield %>
-
+<script src="back/scripts/config.router.js"></script>
+<!-- Lazy load -->
 </body>
 </html>

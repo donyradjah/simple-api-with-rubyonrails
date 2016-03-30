@@ -1,0 +1,113 @@
+    <nav ui-nav>
+    <ul class="nav">
+
+        <li ui-sref-active="active">
+            <a md-ink-ripple ui-sref="app.dashboard">
+        <span class="pull-right text-muted">
+        </span>
+                <i class="icon mdi-action-settings-input-svideo i-20"></i>
+                <span class="font-normal">Dashboard</span>
+            </a>
+        </li>
+        <li ng-if="dataUser.level =='100'">
+            <a md-ink-ripple ui-sref="app.service">
+        <span class="pull-right text-muted">
+
+        </span>
+                <i class="icon mdi-action-work i-20"></i>
+                <span class="font-normal">Service</span>
+            </a>
+        </li>
+        <li ng-if="dataUser.level =='200'">
+            <a md-ink-ripple ui-sref="app.service-admin">
+        <span class="pull-right text-muted">
+
+        </span>
+                <i class="icon mdi-action-work i-20"></i>
+                <span class="font-normal">Service</span>
+            </a>
+        </li>
+        <li>
+            <a md-ink-ripple ui-sref="app.harga-service">
+        <span class="pull-right text-muted">
+
+        </span>
+                <i class="icon mdi-editor-format-list-numbered i-20"></i>
+                <span class="font-normal">Service Charge</span>
+            </a>
+        </li>
+        <li>
+            <a md-ink-ripple ui-sref="app.nota">
+        <span class="pull-right text-muted">
+
+        </span>
+                <i class="icon mdi-action-add-shopping-cart i-20"></i>
+                <span class="font-normal">Sell Sparepart</span>
+            </a>
+        </li>
+        <li>
+            <a md-ink-ripple ui-sref="app.accesoris">
+        <span class="pull-right text-muted">
+
+        </span>
+                <i class="icon mdi-hardware-mouse i-20"></i>
+                <span class="font-normal">Accesoris</span>
+            </a>
+        </li>
+        <li>
+            <a md-ink-ripple ui-sref="app.sparepart">
+        <span class="pull-right text-muted">
+
+        </span>
+                <i class="icon mdi-hardware-phonelink i-20"></i>
+                <span class="font-normal">Spare Part</span>
+            </a>
+        </li>
+        <li>
+            <a md-ink-ripple ui-sref="app.office">
+        <span class="pull-right text-muted">
+
+        </span>
+                <i class="icon mdi-action-book i-20"></i>
+                <span class="font-normal">Office</span>
+            </a>
+        </li>
+        <li>
+            <a md-ink-ripple ui-sref="app.teknisi">
+        <span class="pull-right text-muted">
+
+        </span>
+                <i class="icon mdi-action-perm-identity i-20"></i>
+                <span class="font-normal">Technician</span>
+            </a>
+        </li>
+        <li>
+            <a md-ink-ripple ui-sref="app.merk">
+        <span class="pull-right text-muted">
+
+        </span>
+                <i class="icon mdi-maps-local-play i-20"></i>
+                <span class="font-normal">Merk</span>
+            </a>
+        </li>
+        <li>
+            <a md-ink-ripple ui-sref="app.laporan-keuangan">
+        <span class="pull-right text-muted">
+
+        </span>
+                <i class="icon mdi-action-assessment i-20"></i>
+                <span class="font-normal">Income Report</span>
+            </a>
+        </li>
+        <li ng-if="dataUser.level =='100'">
+            <a md-ink-ripple ui-sref="app.user">
+        <span class="pull-right text-muted">
+
+        </span>
+                <i class="icon mdi-action-account-circle i-20"></i>
+                <span class="font-normal">Management User</span>
+            </a>
+        </li>
+
+    </ul>
+</nav>

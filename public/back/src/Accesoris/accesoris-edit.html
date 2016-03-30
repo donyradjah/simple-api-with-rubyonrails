@@ -1,0 +1,42 @@
+<div class="alert {{alertset.class}} lighten-4 {{alertset.class}}-text text-darken-2 {{alertset.show}}">
+    <span ng-repeat="(key, value) in alertset.msg">{{value}}</span>
+</div>
+<form class="form-validation ng-invalid ng-invalid-required ng-valid-pattern ng-valid-email ng-dirty ng-valid-parse ng-invalid-validator"
+      name="editForm" style="">
+    <div class="panel panel-default">
+        <div class="card-heading">
+            <h2>From Edit Accesoris</h2></br>
+        </div>
+
+        <div class="panel-body">
+            <div class="form-group">
+                <div class="row row-sm">
+                    <div class="col-sm-6">
+                        <div class="md-form-group">
+                            <div class="input-field">
+                                <input class="form-control ng-untouched  md-input ng-pristine ng-valid"
+                                       ng-model="input.name" name="name"
+                                       type="text" required="" tabindex="0" aria-required="true" aria-invalid="true"  ng-focus="isFocused">
+                                <label> Accesoris </label>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row row-sm">
+                    <div class="col-sm-6">
+                        <button md-ink-ripple class="md-btn md-raised m-b btn-fw blue" ng-click="updateData(false)"
+                                ng-disabled="addForm.$invalid || process">Simpan
+                        </button>
+                        <button md-ink-ripple class="md-btn md-raised m-b btn-fw blue" ng-click="updateData(true)"
+                                ng-disabled="addForm.$invalid || process">Simpan & Kembali
+                        </button>
+                        <button md-ink-ripple class="md-btn md-raised m-b btn-fw bg-white" ui-sref="app.accesoris"
+                                ng-disabled="process">Kembali
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+</form>
